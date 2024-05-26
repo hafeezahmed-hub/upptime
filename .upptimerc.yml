@@ -8,7 +8,7 @@ sites:
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: BAH gitlab
-    url: https://gitlab.dsh.boozallencsn.com
+    url: https://gitlab.dsf.boozallencsn.com
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
